@@ -23,14 +23,14 @@
     - : ALTRIMENTI
         - Attendo i miei amici
 - Chiamo il cameriere
-- Ordino la pizza
+- Ordino la pizza scelta
 - Attendo la pizza
     - ? SE ho tanta fame
         - mangio i grissini
     - : ALTRIMENTI
         - aspetto la pizza
 - Arriva la pizza
-- Inizio a mangiare
+- Controllo la temperatura della pizza
     - ? SE è troppo calda
         - soffio
     - : ALTRIMENTI
